@@ -1,6 +1,8 @@
 # libft
 
-### In this first part, you must re-code a set of the libc functions, as defined in their man. In this second part, you must code a set of functions that are either not included in the libc, or included in a different form.
+### Реализация стандартных функций на языке Си
+В первой части необходимо реализовать функции из man
+Во второй части проекта необходимо реализовать бонусные функции
 
 Get_next_line (42cursus) 2021-2022
 
