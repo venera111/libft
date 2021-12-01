@@ -1,11 +1,11 @@
 # libft
 
-### Реализация стандартных функций на языке Си
-В первой части необходимо реализовать функции из man
-Во второй части проекта необходимо реализовать бонусные функции
+### Implementation of standard functions in C
+In the first part, you need to implement functions from man
+In the second part of the project it is necessary to implement bonus functions
 
-Код должен запускаться с помощью makefile и не пересобираться полностью при изменении какого-либо файла. Пересобирается только данный измененный файл.
-Проект направлен на работу различными типами данных в языке Си и понимание, как действуют функции в языке Си.
+The code should be run using a makefile and not completely rebuilt when any file is changed. Only this modified file is reassembled.
+The project is aimed at working with various types of data in C and understanding how functions work in C.
 
 Get_next_line (42cursus) 2021-2022
 
